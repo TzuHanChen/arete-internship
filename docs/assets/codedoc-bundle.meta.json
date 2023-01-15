@@ -1,0 +1,116 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/transport/setup-jss.js",
+      "hash": "Xr0n2h0ukIH8kL6jK595dw=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/content/theme.ts",
+      "hash": "4xAXEMaScsAmP5/YnPuZ4A=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/selection.js",
+      "hash": "pNLgEhqHMTQw69Mnj59y8w=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/same-line-length.js",
+      "hash": "3jM4PmWdeAK7AgfyDCPveA=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-hint/index.js",
+      "hash": "n0aeJGUYZTXXQLtxN7xj4w=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-ref/index.js",
+      "hash": "hTqUWJ+YOORHS7ZQhcfoDw=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/smart-copy.js",
+      "hash": "Jey8TICbD4Z/UV8DbT9LZQ=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/heading/copy-headings.js",
+      "hash": "2IZOQ3Ql9kDda/5Mxabzrg=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/contentnav/highlight.js",
+      "hash": "FLtJ2CQrTzJtwn4cMEkL5A=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/transport/deferred-iframe.js",
+      "hash": "yRirE6iGtNEtXzVV7m8UQQ=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/transport/smooth-loading.js",
+      "hash": "pJ0seOVqU5KBZmw5UEv09Q=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toc-highlight.js",
+      "hash": "7Z0t48Wd/OMrZ0HMYYeVzw=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/search/post-nav/index.js",
+      "hash": "nC8z1d+L0MNgDkXNIWv4aA=="
+    },
+    {
+      "name": "copyLineLinks",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-links/copy-line-link.js",
+      "hash": "0OakFp//dvrLdvZ6NKAt/Q=="
+    },
+    {
+      "name": "gatherFootnotes",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/footnote/gather-footnotes.js",
+      "hash": "uoqUKdx1647bbjHGxsqyiw=="
+    }
+  ],
+  "components": [
+    {
+      "name": "ToCPrevNext",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
+      "hash": "2GM59khb6sBT7N8Z5vbHFw=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
+      "hash": "7S/ds1wHBJANec3bZLngpA=="
+    },
+    {
+      "name": "ToCToggle",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toggle/index.js",
+      "hash": "QUjBIGLm/A3rF5sBwgpbKQ=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/darkmode/index.js",
+      "hash": "Yu5CpzkhgbEiiVWLKSatIA=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/transport/config.js",
+      "hash": "fStft/5Vor8me8mLmLgfyw=="
+    },
+    {
+      "name": "TabSelector",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
+      "hash": "HwZrLPYG6P7z3wz73eUAEg=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/transport/renderer.js",
+    "hash": "8xa1S6Nd0VUI1xEr68tj+A=="
+  }
+}
