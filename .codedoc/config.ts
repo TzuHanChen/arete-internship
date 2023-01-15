@@ -5,7 +5,9 @@ import { theme } from './theme';
 
 export const config = /*#__PURE__*/configuration({
   theme,                                  // --> add the theme. modify `./theme.ts` for changing the theme.
-  
+  dest: {
+    namespace: '/arete-internship',
+  },
   page: {
     title: {
       base: '亞瑞特實習'                // --> the base title of your doc pages
