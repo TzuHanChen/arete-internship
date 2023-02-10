@@ -1,0 +1,92 @@
+/* card 1 */
+.card1 {
+	width: 100%;
+	@media (min-width: $card-width) {
+		width: $card-width;
+	}
+}
+
+.card1-left {
+	height: $card1-height;
+	background-color: $gold;
+	text-align: center;
+	@media (min-width: $card-width) {
+		float: left;
+		width: $card1-left-width;
+		td {
+			width: $card1-left-width;
+		}
+	}
+}
+.card1-title {
+	width: 357px;
+	height: 48px;
+	margin: 18px auto 0 auto;
+	img {
+		width: 100%;
+	}
+}
+.card1-report {
+	width: 248px;
+	height: 42px;
+	margin: 45px auto 0 auto;
+	img {
+		width: 100%;
+	}
+}
+.card1-date {
+	width: 249px;
+	height: 30px;
+	margin: 6px auto 18px auto;
+	span {
+		display: inline-block;
+		width: 49px;
+		font-size: $font-size-small;
+		font-weight: $font-weight-regular;
+		color: $white;
+	}
+}
+.card1-date-line {
+	width: 60px;
+	height: 1px;
+	margin-bottom: 6px;
+}
+.card1-date-to {
+	width: 12px;
+}
+.card1-lab{
+	width: 250px;
+	height: 28px;
+	margin: 0 auto 80px auto;
+	display: block;
+	img {
+		width: 100%;
+		padding: 6px 3px;
+		background-color: $black;
+	}
+}
+
+.card1-right {
+	height: $card1-height;
+	background-image: url("../images/card1-blue-sky.png");
+	background-size: cover;
+	background-position: right center;
+	background-repeat: no-repeat;
+	@media (min-width: $card-width) {
+		float: right;
+		width: $card1-right-width;
+	}
+}
+.card1-weekly-news {
+	width: 100%;
+	height: $card1-height;
+	padding: 105px 0;
+	text-align: center;
+	img {
+		height: 126px;
+	}
+	@media (min-width: $card-width) {
+		width: $card1-right-width;
+		padding: 105px 18% 0 3%;
+	}
+}

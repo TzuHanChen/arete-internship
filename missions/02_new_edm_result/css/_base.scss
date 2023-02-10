@@ -1,0 +1,74 @@
+// color
+$gold: #efc61c;
+$black: #231816;
+$white: white;
+
+// font
+$font-size-extra-large: 60px;
+$font-size-large: 42px;
+$font-size-medium: 24px;
+$font-size-small: 18px;
+$font-size-extra-small: 15px;
+
+$font-weight-thin: 100;
+$font-weight-regular: 400;
+$font-weight-bold: 700;
+
+$letter-spacing-extra-large: 15px;
+$letter-spacing-large: 12px;
+$letter-spacing-medium: 6px;
+$letter-spacing-small: 3px;
+$letter-spacing-extra-small: -3px;
+
+// size
+$card-width: 750px;
+$card-padding: 30px;
+$card1-height: 315px;
+$card1-left-width: 363px;
+$card1-right-width: 387px;
+$card3-youtube-podcast-padding-outside: 42px;
+$card3-case-padding-outside: 54px;
+$card3-case-padding-inside: 18px;
+$card3-case-width: calc(($card-width - $card3-case-padding-outside * 2 - $card3-case-padding-inside * 2) / 3);
+
+/* default */
+*, *:before, *::after {
+	margin: 0;
+	padding: 0;
+	border: none;
+	box-sizing: border-box;
+}
+body {
+	font-family: "Noto Sans CJK", sans-serif;
+	color: $black;
+}
+table, tr, td {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border: none;
+}
+p, span, li, br, img {
+	&::selection {
+		background-color: $gold;
+		color: $black;
+	}
+}
+a, a:link, a:hover, a:active {
+	text-decoration: none;
+	color: $black;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+ol, ul {
+	padding-left: 1em;
+}
+
+.card {
+	max-width: $card-width;
+	margin: 0 auto;
+}
+.arrow-button {
+	width: 60px;
+}

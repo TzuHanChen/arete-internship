@@ -11,7 +11,7 @@
 > :Collapse label=實習日誌
 >
 > [為何要寫](/logs)
-> [實習日誌模板](/logs/template)
+> [實習日誌模板](/logs/log_template)
 
 > :Collapse label=202211 日誌
 > 
@@ -47,9 +47,27 @@
 > [20230113](/logs/20230113)
 > [20230119](/logs/20230119)
 
+> :Collapse label=202302 日誌
+> 
+> [20230202](/logs/20230202)
+> [20230203](/logs/20230203)
+> [20230209](/logs/20230209)
+
 ---
 
-[任務清單](/missions)
+> :Collapse label=任務成果
+>
+> [公開與否](/missions)
+> [任務成果模板](/missions/mission_template)
+
+> :Collapse label=任務清單
+>
+> [數位帳戶](/missions/01_digital_deposit)
+> [動態週報](/missions/02_new_edm)
+> [聽損基因表格](/missions/03_gene_table)
+> [小編天堂路](/missions/04_heaven_road)
+> [安蓓基因檢測](/missions/05_mpap_test)
+> [生命靈數測驗](/missions/06_life_path_number)
 
 ---
 

@@ -1,0 +1,78 @@
+/* card 2 */
+.card2-1 {
+	margin-top: 90px;
+}
+.card2-trend, .card2-hashtag {
+	padding: 0 30px;
+}
+.card2-trend {
+	p {
+		margin: 0 auto 15px auto;
+		width: 240px;
+		height: 30px;
+		background-color: $gold;
+		font-size: $font-size-medium;
+		font-weight: $font-weight-bold;
+		text-align: center;
+		span {
+			position: relative;
+			top: 3px;
+			padding-left: 9px;
+			letter-spacing: $letter-spacing-large;
+		}
+	}
+}
+.card2-hashtag {
+	p {
+		margin: 0 auto 42px auto;
+		font-size: $font-size-extra-small;
+		font-weight: $font-weight-bold;
+		text-align: center;
+		letter-spacing: $letter-spacing-small;
+	}
+}
+
+.card2-left, .card2-right {
+	padding: 0 $card-padding;
+	vertical-align: top;
+}
+.card2-left {
+	float: left;
+	padding-bottom: 30px;
+	@media (min-width: $card-width) {
+		width: calc(($card-width / 2) + 1px);
+		border-right: 1px solid $gold;
+		padding: 0 40px 0 50px;	
+	}
+}
+.card2-right {
+	float: right;
+	@media (min-width: $card-width) {
+		width: calc(($card-width / 2) - 1px);
+		padding: 0 50px 0 40px;
+	}
+}
+
+.card2-article-title, .card2-article-content {
+	font-size: $font-size-extra-small;
+	text-align: justify;
+	text-justify: auto;
+}
+.card2-article-title {
+	font-weight: $font-weight-bold;
+}
+.card2-article-content {
+	font-weight: $font-weight-regular;
+}
+
+.card2-bottom {
+	margin: 0 auto;
+	width: 270px;
+	height: 258px;
+}
+.card2-more {
+	margin: 0 30px 78px 6px;
+}
+.card2-person {
+	width: 168px;
+}

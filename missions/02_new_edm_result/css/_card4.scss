@@ -1,0 +1,131 @@
+/* card 4 */
+.card4-1 {
+	margin-top: 48px;
+}
+
+.card4-left {
+	float: left;
+	width: 100%;
+	p {
+		margin: 0 auto;
+		width: 324px;
+		height: 255px;
+		background-image: url("../images/card4-three-viruses.png");
+		background-size: 225px;
+		background-position: 27px 72px;
+		background-repeat: no-repeat;
+	}
+	@media (min-width: $card-width) {
+		width: 324px;
+	}
+}
+.card4-person {
+	width: 138px;
+	margin-left: 186px;
+}
+.card4-one-virus {
+	width: 48px;
+	position: absolute;
+	top: 117px;
+	right: 180px;
+	z-index: -1;
+}
+
+.card4-right {
+	float: right;
+	width: 100%;
+	padding: 0 $card-padding;
+	@media (min-width: $card-width) {
+		width: 426px;
+		padding: 0 12px;
+	}
+}
+
+.card4-title {
+	margin: 51px 0 30px 0;
+	background-image: url("../images/card4-one-virus.png");
+	background-size: 48px;
+	background-position: 189px 12px;
+	background-repeat: no-repeat;
+}
+.card4-covid19 {
+	font-size: $font-size-medium;
+	font-weight: $font-weight-bold;
+	color: $gold;
+}
+.card4-map, .card4-marketing {
+	display: block;
+	font-size: $font-size-medium;
+	font-weight: $font-weight-bold;
+}
+.card4-map {
+	letter-spacing: $letter-spacing-large;
+}
+
+.card4-case {
+	border-left: 1px solid rgba($black, 0.3);
+	padding: 0 0 15px 18px;
+	span {
+		display: block;
+	}
+	span:nth-child(1) {
+		font-size: $font-size-small;
+		font-weight: $font-weight-bold;
+	}
+	span:nth-child(2) {
+		padding-bottom: 9px;
+		font-size: $font-size-extra-small;
+		font-weight: $font-weight-bold;
+	}
+	span:nth-child(3) {
+		font-size: $font-size-extra-small;
+		font-weight: $font-weight-thin;
+	}
+	span:nth-child(4) {
+		margin-top: 6px;
+		text-align: right;
+	}
+	@media (min-width: $card-width) {
+		padding-right: 51px;
+	}
+}
+
+.card4-3 {
+	width: 100%;
+}
+.card4-follow-us {
+	height: 90px;
+	padding-top: 45px;
+	background-image: url("../images/background_follow_us.svg");
+	background-size: contain;
+	background-position: center center;
+	background-repeat: repeat;
+	text-align: center;
+	img {
+		width: 96px;
+	}
+}
+
+.card4-footer {
+	height: 150px;
+	background-color: $gold;
+}
+.card4-links {
+	text-align: center;
+	a {
+		margin: 0 3px;
+		width: 51px;
+		height: 51px;
+		display: inline-block;
+	}
+	@media (min-width: $card-width) {
+		a {
+			margin: 0 18px;
+		}
+	}
+}
+.card4-copyright {
+	margin-top: 30px;
+	font-size: 15px;
+	text-align: center;
+}
