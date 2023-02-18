@@ -74,13 +74,28 @@
       "name": "gatherFootnotes",
       "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/footnote/gather-footnotes.js",
       "hash": "uoqUKdx1647bbjHGxsqyiw=="
+    },
+    {
+      "name": "reloadOnChange",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/serve/reload.js",
+      "hash": "5a36lUTxKYe0YRJ7xn5xQQ=="
     }
   ],
   "components": [
     {
+      "name": "TabSelector",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
+      "hash": "HwZrLPYG6P7z3wz73eUAEg=="
+    },
+    {
       "name": "CollapseControl",
       "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
       "hash": "7S/ds1wHBJANec3bZLngpA=="
+    },
+    {
+      "name": "ToCPrevNext",
+      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
+      "hash": "2GM59khb6sBT7N8Z5vbHFw=="
     },
     {
       "name": "ToCToggle",
@@ -96,16 +111,6 @@
       "name": "ConfigTransport",
       "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/transport/config.js",
       "hash": "fStft/5Vor8me8mLmLgfyw=="
-    },
-    {
-      "name": "TabSelector",
-      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
-      "hash": "HwZrLPYG6P7z3wz73eUAEg=="
-    },
-    {
-      "name": "ToCPrevNext",
-      "filename": "C:/4_project/05_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
-      "hash": "2GM59khb6sBT7N8Z5vbHFw=="
     }
   ],
   "renderer": {

@@ -45,7 +45,7 @@
 
 | 禁用卡牌 | `position: absolute` |
 | :- | :- |
-| 下位替代 | `margin: negative` |
+| 下位替代 | `margin: n/-n` |
 
 一維與二維排版
 
