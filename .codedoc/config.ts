@@ -31,9 +31,9 @@ export const config = /*#__PURE__*/configuration({
     }
   },
   dest: {
-    bundle: '/logs/assets',
+    bundle: '/assets',
     // --> where to store codedoc's bundle (relative to `assets`)
-    styles: '/logs/assets',
+    styles: '/assets',
     // --> where to store codedoc's styles (relative to `assets`)
     namespace: '/arete-internship',
     // --> root directory
