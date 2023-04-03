@@ -5,11 +5,13 @@ import { theme } from './theme';
 export const config = /*#__PURE__*/configuration({
   theme,
   // --> add the theme. modify `./theme.ts` for changing the theme.
+  
   src: {
     base: 'md', // --> the base folder for all markdowns
     not_found: '404.md',
     // --> markdown file for 404 page, relative to `base`
   },
+  
   page: {
     title: {
       base: '亞瑞特實習' // --> the base title of your doc pages
@@ -30,6 +32,7 @@ export const config = /*#__PURE__*/configuration({
       }
     }
   },
+  
   dest: {
     bundle: '/assets',
     // --> where to store codedoc's bundle (relative to `assets`)
