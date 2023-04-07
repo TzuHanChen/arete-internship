@@ -15,16 +15,16 @@ import { postNavSearch } from 'C:/4_project/07_實習紀錄/arete-internship/.co
 import { copyLineLinks } from 'C:/4_project/07_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-links/copy-line-link.js';copyLineLinks();
 import { gatherFootnotes } from 'C:/4_project/07_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/footnote/gather-footnotes.js';gatherFootnotes();
 import { TabSelector } from 'C:/4_project/07_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js';
-import { ToCPrevNext } from 'C:/4_project/07_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js';
 import { CollapseControl } from 'C:/4_project/07_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js';
+import { ToCPrevNext } from 'C:/4_project/07_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js';
 import { ToCToggle } from 'C:/4_project/07_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from 'C:/4_project/07_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/darkmode/index.js';
 import { ConfigTransport } from 'C:/4_project/07_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/transport/config.js';
 
 const components = {
   '5bUDwQJYmHpPly9H3cGYjQ==': TabSelector,
-  '5ZjAyZSs5gB6mpkmBb892Q==': ToCPrevNext,
   'AS5Oj9lhs+V6Nfni7HG+ig==': CollapseControl,
+  '5ZjAyZSs5gB6mpkmBb892Q==': ToCPrevNext,
   'T4h3fvKmW8F+SStWYT5Svw==': ToCToggle,
   'GtHbmKLQ1OfrCUDiHbY2sA==': DarkModeSwitch,
   'oDcavtYzmZkEsdZm/kbXTg==': ConfigTransport
