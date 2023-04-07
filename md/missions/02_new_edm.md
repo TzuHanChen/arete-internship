@@ -1,6 +1,6 @@
 # 動態週報
 
-![動態週報第一區塊截圖](02_new_edm.png)
+![動態週報截圖](02_new_edm.png)
 
 ## 時程
 
@@ -15,7 +15,7 @@
 此任務的來源為公司，可以公開原始檔案。
 
 > :Buttons
-> > :Button label=設計稿, url=https://tzuhanchen.github.io/arete-internship/missions/02_new_edm_result/preview
+> > :Button label=公司的設計稿, url=https://tzuhanchen.github.io/arete-internship/missions/02_new_edm_result/preview
 >
 > > :Button label=我的任務成果, url=https://tzuhanchen.github.io/arete-internship/missions/02_new_edm_result/
 

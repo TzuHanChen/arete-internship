@@ -15,7 +15,11 @@
 此任務的來源為客戶 / 公司，可以 / 不能公開原始檔案。
 
 > :Buttons
-> > :Button label=客戶的網站 / 我的任務成果, url=https://example.com
+> > :Button label=客戶的網站, url=https://example.com
+>
+> > :Button label=公司的設計稿, url=https://example.com
+>
+> > :Button label=我的任務成果, url=https://example.com
 
 ## 心得
 
