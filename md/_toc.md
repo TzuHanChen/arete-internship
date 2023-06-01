@@ -2,7 +2,7 @@
 
 > :Collapse label=得到機會
 >
-> [職缺描述](/offer/)
+> [職缺描述](/offer/description)
 > [面試邀請](/offer/invitation)
 > [面試紀錄](/offer/interview)
 
@@ -10,7 +10,7 @@
 
 > :Collapse label=實習日誌
 >
-> [為何要寫](/logs)
+> [為何要寫](/logs/why)
 > [實習日誌模板](/logs/log_template)
 
 > :Collapse label=202211 日誌
@@ -75,12 +75,18 @@
 > 
 > [20230406](/logs/20230406)
 > [20230407](/logs/20230407)
+<!-- > [20230413](/logs/20230413)
+> [20230414](/logs/20230414)
+> [20230420](/logs/20230420)
+> [20230421](/logs/20230421)
+> [20230427](/logs/20230427)
+> [20230428](/logs/20230428) -->
 
 ---
 
 > :Collapse label=任務成果
 >
-> [公開與否](/missions)
+> [公開與否](/missions/display)
 > [任務成果模板](/missions/mission_template)
 
 > :Collapse label=任務清單
@@ -91,6 +97,16 @@
 > [小編天堂路](/missions/04_heaven_road)
 > [安蓓基因檢測](/missions/05_mpap_test)
 > [生命靈數測驗](/missions/06_life_path_number)
+<!-- > [預見未來的你](/missions/07_future_you) -->
+
+<!-- ---
+
+> :Collapse label=實習結束
+>
+> [數據整理](/end/numbers)
+> [實習證書](/end/certificate)
+> [感謝信](/end/thanks-letter)
+> [公司推薦信](/end/recommendation-letter) -->
 
 ---
 
