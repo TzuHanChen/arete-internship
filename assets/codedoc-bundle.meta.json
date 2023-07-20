@@ -78,6 +78,11 @@
   ],
   "components": [
     {
+      "name": "ToCPrevNext",
+      "filename": "C:/4_project/07_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
+      "hash": "5ZjAyZSs5gB6mpkmBb892Q=="
+    },
+    {
       "name": "CollapseControl",
       "filename": "C:/4_project/07_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
       "hash": "AS5Oj9lhs+V6Nfni7HG+ig=="
@@ -101,11 +106,6 @@
       "name": "TabSelector",
       "filename": "C:/4_project/07_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
       "hash": "5bUDwQJYmHpPly9H3cGYjQ=="
-    },
-    {
-      "name": "ToCPrevNext",
-      "filename": "C:/4_project/07_實習紀錄/arete-internship/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
-      "hash": "5ZjAyZSs5gB6mpkmBb892Q=="
     }
   ],
   "renderer": {

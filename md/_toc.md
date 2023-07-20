@@ -99,14 +99,14 @@
 > [生命靈數測驗](/missions/06_life_path_number)
 > [預見未來的你](/missions/07_future_you)
 
-<!-- ---
+---
 
 > :Collapse label=實習結束
 >
-> [數據整理](/end/data)
 > [實習證書](/end/certificate)
 > [感謝信](/end/thanks-letter)
-> [公司推薦信](/end/recommendation-letter) -->
+> [公司推薦信](/end/recommendation-letter)
+> [數據整理](/end/data)
 
 ---
 
